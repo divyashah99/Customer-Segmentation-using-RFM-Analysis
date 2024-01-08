@@ -2,15 +2,18 @@
 
 ## Project Overview
 
-This project involves leveraging an eCommerce dataset to perform customer segmentation using RFM (Recency, Frequency, Monetary) analysis. RFM analysis is a proven technique in business to group customers based on their purchasing behavior, allowing for targeted marketing strategies.
+This project revolves around leveraging an [eCommerce dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data) to conduct customer segmentation using RFM (Recency, Frequency, Monetary) analysis. RFM analysis is a powerful business technique that groups customers based on their purchasing behavior, facilitating targeted marketing strategies.
 
 ## Project Objectives
 
-The primary goal of this project is to conduct RFM analysis on the provided eCommerce dataset and segment customers based on their RFM scores. The segmentation aims to uncover valuable insights into customer behavior, facilitating the development of focused marketing campaigns and effective retention strategies.
+The main objectives of this project are:
+1. To perform comprehensive RFM analysis on the provided [eCommerce dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data).
+2. To segment customers based on their RFM scores, revealing valuable insights into customer behavior.
+3. To enable the development of focused marketing campaigns and effective retention strategies through the identified customer segments.
 
 ## Dataset Information
 
-The dataset consists of transactions from a UK-based online retail company specializing in unique all-occasion gifts. Spanning from December 1, 2010, to December 9, 2011, it includes transactions from both individual customers and wholesalers.
+The dataset encompasses transactions from a UK-based online retail company specializing in unique all-occasion gifts. Spanning from December 1, 2010, to December 9, 2011, it includes transactions from both individual customers and wholesalers.
 
 ## Data Cleaning and Inspection
 
